@@ -16,3 +16,11 @@
 - Reveal sections
 - Lazy loading images
 
+## ScreenShots:
+![Screenshot -1](https://user-images.githubusercontent.com/77184432/176552752-e021b287-4fb9-4e69-b674-a031613a8134.png)
+
+## Deployment/Live Demo
+[Bankist-website](https://bankist-website-111.netlify.app/)
+
+## Screen record
+[Bankist video](https://www.youtube.com/watch?v=Cdun3E685Do)
